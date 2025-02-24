@@ -33,9 +33,9 @@ const getTotalSubscribers = (userData) => {
 const showInvite = (userData) => {
   app.innerHTML = `
     <main>
-      <h3>Inscrição confirmada!</h3>
+      <h3 class="title">Inscrição confirmada!</h3>
 
-      <p>
+      <p class="description__confirm">
         Convide mais pessoas e concorra a prêmios! <br/>
         Compartilhe o link e acompanhe as inscrições:
       </p>

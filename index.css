@@ -135,3 +135,25 @@ button {
   margin-top: 20px;
   cursor: pointer;
 }
+
+.title {
+  font-family: "Oxanium";
+  font-size: 2rem;
+}
+
+.stats {
+  display: grid;
+  gap: 1.25rem;
+  font-size: 1.25rem;
+  margin-top: 20px;
+  font-family: "Oxanium";
+}
+
+#link {
+  color: #6f9de2;
+  text-decoration: none;
+}
+
+.description__confirm {
+  font-size: 1.5rem;
+}
